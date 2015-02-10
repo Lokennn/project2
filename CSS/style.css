@@ -1,0 +1,71 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, img, ins, kbd, q, s, samp, small, strike, strong, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.mainmargin {
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#red {
+	color:red;
+}
+
+h1 {
+	font-size: 75px;
+	font-family: Adobe Garamond Pro, Georgia, serif;
+	font-weight: 100;
+}
+
+h4 {
+	font-size: large;
+	font-family: Helvetica, serif;
+	font-weight: 100;
+}
+
+h5 {
+	font-size: large;
+	font-family: Helvetica, serif;
+	font-weight: 100;
+}
+
+.bodytext {
+	font-family: Helvetica, serif;
+	font-size: 20px;
+	line-height: 150%;
+}
+
+.boldbig {
+	font-weight: 400;
+	font-size: 30px;
+}
